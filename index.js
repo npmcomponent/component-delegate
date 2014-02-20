@@ -2,8 +2,8 @@
  * Module dependencies.
  */
 
-var closest = require('closest')
-  , event = require('event');
+var closest = require('discore-closest')
+  , event = require('component-event');
 
 /**
  * Delegate event `type` to `selector`

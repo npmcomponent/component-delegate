@@ -9,16 +9,7 @@
     "delegation"
   ],
   "dependencies": {
-    "discore-closest": "*",
-    "component-event": "*"
-  },
-  "component": {
-    "scripts": {
-      "delegate/index.js": "index.js"
-    }
-  },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/component/delegate.git"
+    "discore-closest": "git://github.com/npmcomponent/discore-closest.git",
+    "component-event": "git://github.com/npmcomponent/component-event.git"
   }
 }
